@@ -30,3 +30,9 @@ def decode_char(morse_code)
 
   return lexicon[morse_code]
 end
+
+def decode_word(morse_word)
+  characters = morse_word.split(" ")
+  decoded_word = characters.map { |morse_char| decode_char(morse_char) }
+  return decoded_word.join
+end
