@@ -27,7 +27,7 @@
 
 # 📖 [Morse Code Interpreter] <a name="about-project"></a>
 
-**[Morse Code Interpreter]()** is built with react using create-react-app. It essentially displays a list of countries and few other details about each country and allows users to view more details about each country. Other pages are also accessible with routers.
+**[Morse Code Interpreter]()** is a project that offers a set of algorithms and functions that can convert Morse code sequences into readable text, enabling users to easily decode messages transmitted in this classic communication format.
 
 
 ## 🛠 Built With <a name="built-with"></a>
