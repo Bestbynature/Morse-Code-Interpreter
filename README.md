@@ -39,11 +39,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JAVASCRIPT</li>
-    <li>REACT</li>
-    <li>REDUX</li>
+    <li>RUBY</li>
   </ul>
 </details>
 
@@ -52,18 +48,12 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Linter checks]**
-- **[JSX]**
-- **[Mobile Display]**
-- **[React Rendering]**
+- **[Morse decoding]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-### **[Morse Code Interpreter](https://metric-web-application.onrender.com/)**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,7 +97,7 @@ To install this project, run
 
 ```sh
 
-npm install
+Bundle install
 
 ```
 
@@ -138,8 +128,20 @@ You can deploy this project using:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
+ 
+ 👤 **Ouail Laarabi**
+ 
+ - GitHub: [Click here](https://github.com/Ouail-01?tab=overview&from=2023-01-01&to=2023-01-02)
+ - Twitter: [Click here](https://twitter.com/Ouail_Laarabi)
+ - LinkedIn: [Click here](https://www.linkedin.com/in/ouail-laarabi-53203b250/)
+ 
+ 👤 **Prince**
+ 
+ - GitHub: [@prius2055](https://github.com/prius2055)
+ - Twitter: [@prius2055](https://www.twitter.com/prius2055)
+ - LinkedIn: [@prius2055](https://www.linkedin.com/prius2055)
 
-👤 **Author: Damilare**
+👤 **Damilare**
 
 - GitHub: [@githubhandle](https://github.com/Bestbynature)
 - Twitter: [@twitterhandle](https://twitter.com/Dammybest)
@@ -151,9 +153,9 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[contact form page]**
-- [ ] **[A feature for a more detailed demographic data]**
-- [ ] **[A feature for updating the list of countries]**
+- [ ] **[Decode by paragraphs]**
+- [ ] **[A feature for a more detailed demographic data of the decoder]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,7 +173,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, kindly drop a star for me.
+If you like this project, kindly drop a star for the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,7 +181,7 @@ If you like this project, kindly drop a star for me.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to use this medium to appreciate [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for giving the original design idea 
+I would like to use this medium to appreciate [Microverse](https://microverse.org)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
