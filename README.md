@@ -133,7 +133,7 @@ You can deploy this project using:
  
  - GitHub: [@prius2055](https://github.com/prius2055)
  - Twitter: [@prius2055](https://www.twitter.com/prius2055)
- - LinkedIn: [@prius2055](https://www.linkedin.com/in/prius2055)
+ - LinkedIn: [@prius2055](https://www.linkedin.com/in/princenwuke)
 
 👤 **Damilare**
 
