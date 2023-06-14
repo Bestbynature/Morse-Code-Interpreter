@@ -100,11 +100,13 @@ Bundle install
 
 To run tests, run the following command:
 
+Run
 ```sh
-Run "npx hint ."
-Run "npx stylelint "**/*.{css,scss} --fix " to fix linters
-Run "npx eslint . --fix to fix linters"
+
+ "rubocop --fix"
+
 ```
+ to fix linters
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
