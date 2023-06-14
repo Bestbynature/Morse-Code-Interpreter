@@ -5,12 +5,10 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 React Pollution Metrics App](#-about-project-)
+- [📖 Morse Code Interpreter](#-about-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-    - [**Morse Code Interpreter**](#live-demo)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -50,10 +48,6 @@
 - **[Linter checks]**
 - **[Morse decoding]**
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +133,7 @@ You can deploy this project using:
  
  - GitHub: [@prius2055](https://github.com/prius2055)
  - Twitter: [@prius2055](https://www.twitter.com/prius2055)
- - LinkedIn: [@prius2055](https://www.linkedin.com/prius2055)
+ - LinkedIn: [@prius2055](https://www.linkedin.com/in/prius2055)
 
 👤 **Damilare**
 
